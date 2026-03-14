@@ -17,17 +17,8 @@ This project leverages machine learning to analyze a primary dataset of daily ha
 ## 📊 Key Findings & Results
 
 * **Best Model:** The Random Forest classifier achieved superior performance, proving highly effective at handling non-linear lifestyle data.
-<div align="left">
-  <img src="image-1.png" alt="Click to Watch" style="width:100%;">
-</div>
 * **Accuracy:** 85.19% with an ROC-AUC score of 0.88.
-<div align="left">
-  <img src="image-2.png" alt="Click to Watch" style="width:100%;">
-</div>
 * **Feature Importance:** The model identified Sleep Duration, Bedtime Procrastination, and Stress Levels as the strongest predictors. This successfully highlights that psychological and behavioral patterns are as critical as biological markers in determining sleep quality.
-<div align="left">
-  <img src="image-3.png" alt="Click to Watch" style="width:100%;">
-</div>
 
 ## 🛠️ Technologies
 
