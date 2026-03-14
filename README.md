@@ -24,6 +24,6 @@ This project leverages machine learning to analyze a primary dataset of daily ha
 
 * **Language:** Python
 * **Environment:** Jupyter Notebook
-* **Data Manipulation & Analysis:** `pandas`, `numpy`
-* **Machine Learning:** `scikit-learn` (Model implementations, `GridSearchCV`, `LabelEncoder`, `StandardScaler`)
-* **Data Visualization:** `matplotlib`, `seaborn`
+* **Data Manipulation & Analysis:** NumPy & Pandas
+* **Machine Learning:** Scikit-Learn (Model implementations, `GridSearchCV`, `LabelEncoder`, `StandardScaler`)
+* **Data Visualization:** Matplotlib & Seaborn
