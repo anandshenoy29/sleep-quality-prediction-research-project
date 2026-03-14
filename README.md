@@ -1,4 +1,4 @@
-# 💤 Predicting Sleep Quality Via Behavioural and Lifestyle Indicator Analysis
+# 💤 Predicting Sleep Quality Via Behavioural And Lifestyle Indicator Analysis Using Machine Learning
 
 A machine learning project that predicts sleep quality by analyzing modern behavioural data and lifestyle habits across a diverse demographic. This research project shifts the focus from traditional clinical sleep studies to the behavioural roots of sleep deprivation, providing a data-driven foundation for personalized health interventions and future mobile-based sleep monitoring systems.
 
