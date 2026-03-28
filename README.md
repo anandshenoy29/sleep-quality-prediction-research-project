@@ -33,6 +33,6 @@ This project leverages machine learning to analyze a primary dataset of daily ha
 Click to view the paper!
 <div align="center">
   <a href="https://drive.google.com/file/d/1wrqP7-qtLUWHmWxVDYXr8kmK8vJ0YG1q/view?usp=drive_link">
-    <img src="static/demo.png" alt="Click to Watch" style="width:100%;">
+    <img src="Sleep_Quality_Prediction_Logo.jpg" alt="Click to Watch" style="width:100%;">
   </a>
 </div>
